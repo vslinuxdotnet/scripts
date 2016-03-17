@@ -1,2 +1,13 @@
-# scripts
-scripts of many languages
+# SCRIPTS
+scripts of many languages that I make for make life more easier...
+
+ _____ _           _   _        ___   _      _     
+|_   _| |         | | ( )      / _ \ | |    | |    
+  | | | |__   __ _| |_|/ ___  / /_\ \| |    | |    
+  | | | '_ \ / _` | __| / __| |  _  || |    | |    
+  | | | | | | (_| | |_  \__ \ | | | || |____| |____
+  \_/ |_| |_|\__,_|\__| |___/ \_| |_/\_____/\_____/
+                                                                                                      
+     '*'          .|||.         .===.         ()_()          
+    (o o)         (o o)        {}o o{}        (o o)            
+ooO--(_)--Ooo-ooO--(_)--Ooo-ooO--(_)--Ooo-ooO--`o'--Ooo
