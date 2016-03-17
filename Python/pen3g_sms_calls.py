@@ -2,7 +2,7 @@
 
 #Envio de sms e tokes para telefones via pen 3G
 #Vasco Santos
-#Ver 0.1 17/06/2013
+#V0.1 17/06/2013
 
 
 import serial
